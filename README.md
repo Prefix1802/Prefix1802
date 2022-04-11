@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prefix1802
-- 👀 I’m interested in Angular, Typescript, etc
+- 👀 I’m interested in ngx admin, Angular, Typescript, C#, SignalR, Women
 - 🌱 I’m currently learning always
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me ict@lmsales.nl
